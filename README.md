@@ -4,7 +4,7 @@
 
 <p align="center">ㅤ𓏵 junie ⊹ ࣪ ˖  16 ⟢
 
-<p align="center"> shy 2 int first , w2iㅤ ͜͜⌇ ㅤdnc my skins ᛝ ˖
+<p align="center"> shy 2 int first , w2iㅤ ͜͜ᛝ ㅤdnc my skins ⸝⸝ ˖
 
 
   
