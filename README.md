@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/giannahundy-crypto/giannahundy-crypto/blob/dac4f7d41ff79ea6dec2073977305f915d97487f/banner.png">
-
 <p align="center">   ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦ 
 
 <p align="center">
