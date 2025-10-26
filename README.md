@@ -6,6 +6,6 @@
 
 <p align="center"> ◞ shy 2 int first , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
   
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/49x60D1lFvPuzVn2xdAF3O?si=4ed039915a364bb0)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zlpjjlk9fesgofb70wjqfnywj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b1764e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile))
 
 <p align="center"> ────────────────────────────────────────────────────────────────────────────────────
