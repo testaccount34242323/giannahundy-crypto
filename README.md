@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/giannahundy-crypto/giannahundy-crypto/blob/44dc58288af5c6a048f788482cdac5572109cebf/yashiropngbyme.png">
+  <img src="https://github.com/giannahundy-crypto/giannahundy-crypto/blob/c7fffea34023739b25428a0c3a6cc9e833f9768a/coloredtexture.png">
  <p align="center">ㅤ𓏵       junie ⊹ ࣪ ˖
 <p align="center">ㅤㅤㅤㅤ16　ㅤㅤ ˖ usually offtab , w2iㅤㅤ　⠀ ͜͜ ♪ ㅤdnc my skinsㅤㅤㅤㅤ　⠀ㅤㅤ
 
