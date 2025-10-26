@@ -6,7 +6,11 @@
 
 <p align="center"> ◞ shy 2 int first , w2iㅤ ͜͜      ㅤdnc my skins ⸝⸝ ˖
   
-<p align="center">
-src=[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zlpjjlk9fesgofb70wjqfnywj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b1764e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img align="center" src=<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zlpjjlk9fesgofb70wjqfnywj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=b1764e&bar_color_cover=false">
+  </a>
+</p>
+
   
 <p align="center"> ────────────────────────────────────────────────────────────────────────────────────
