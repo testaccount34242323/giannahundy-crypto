@@ -4,7 +4,7 @@
 
 <p align="center">ㅤ𓏵 junie ⊹ ࣪ ˖  16 ⟢
 
-<p align="center">ㅤ ˖ usually offtab , w2iㅤ ͜͜⌇ ㅤdnc my skins
+<p align="center">ㅤusually offtab , w2iㅤ ͜͜⌇ ㅤdnc my skins ˖
 
 
   
